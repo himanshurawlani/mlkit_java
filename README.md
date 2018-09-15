@@ -12,7 +12,7 @@ Introduction
 Getting Started
 ---------------
 
-- [Add Firebase to your Android Project](https://firebase.google.com/docs/android/setup).
+- [Add Firebase to your Android Project](https://firebase.google.com/docs/android/setup). To add this sample app to your Firebase project, use the applicationId value specified in the app/build.gradle file of the app as the Android package name. Download the generated google-services.json file, and copy it to the app/ directory of the sample you wish to run.
 - Run the sample on an Android device.
 - Choose LivePreviewActivity to see a demo of the following APIs:
   - Face detection
